@@ -21,9 +21,9 @@ public class Sample {
            System.out.println("selected");
            while(rs.next())
            {
-               String s1=rs.getString("Ename");
-               String s2=rs.getString("Email");
-               String s3=rs.getString("Password");
+               String s1=rs.getString("lumiin");
+               String s2=rs.getString("Ejghdjhkgfb");
+               String s3=rs.getString("Pastjh;trthtyh);
                String s4=rs.getString("Address");
                System.out.println(s1);
                System.out.println(s2);
