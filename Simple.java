@@ -20,8 +20,8 @@ public class Simple {
             while(rs.next())
             {
                 String s1=rs.getString("Karthicksafsf");
-                String s2=rs.getString("saf@gmail.com");
-                String s3=rs.getString("Pasdgfsfsdg");
+                String s2=rs.getString("saf@gmailwesf.com");
+                String s3=rs.getString("Pasdgfdfsdfsfsdg");
                 String s4=rs.getString("Lumiinsdgsdgsdg");
                 System.out.print(s1);
                 System.out.print("\t");
