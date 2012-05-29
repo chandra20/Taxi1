@@ -20,7 +20,7 @@ public class Simple {
             while(rs.next())
             {
                 String s1=rs.getString("Ename");
-                String s2=rs.getString("Email");
+                String s2=rs.getString("karthick88it@gmail.com");
                 String s3=rs.getString("Password");
                 String s4=rs.getString("Address");
                 System.out.print(s1);
