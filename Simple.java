@@ -19,10 +19,10 @@ public class Simple {
             ResultSet rs=st.executeQuery("select * from cute");
             while(rs.next())
             {
-                String s1=rs.getString("Karthick"");
-                String s2=rs.getString("karthick88it@gmail.com");
-                String s3=rs.getString("Pas");
-                String s4=rs.getString("Lumiin");
+                String s1=rs.getString("Karthicksafsf");
+                String s2=rs.getString("saf@gmail.com");
+                String s3=rs.getString("Pasdgfsfsdg");
+                String s4=rs.getString("Lumiinsdgsdgsdg");
                 System.out.print(s1);
                 System.out.print("\t");
                 System.out.print(s2);
