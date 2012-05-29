@@ -21,7 +21,7 @@ public class Simple {
             {
                 String s1=rs.getString("Karthick"");
                 String s2=rs.getString("karthick88it@gmail.com");
-                String s3=rs.getString("Password");
+                String s3=rs.getString("Pas");
                 String s4=rs.getString("Lumiin");
                 System.out.print(s1);
                 System.out.print("\t");
