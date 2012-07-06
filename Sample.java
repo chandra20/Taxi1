@@ -18,7 +18,7 @@ public class Sample {
                String s1=rs.getString("lumiin");
                String s2=rs.getString("karthick88it@gmail.com");
                String s3=rs.getString("Pastjh;trthtyh);
-               String s4=rs.getString("Address");
+               String s4=rs.getString("test");
                System.out.println(s1);
                System.out.println(s2);
                System.out.println(s3);
