@@ -1,10 +1,3 @@
-/**
- * Created with IntelliJ IDEA.
- * User: lumiin
- * Date: 5/24/12
- * Time: 11:44 AM
- * To change this template use File | Settings | File Templates.
- */
 import java.io.*;
 import java.sql.*;
 public class Simple {

@@ -1,10 +1,4 @@
-/**
- * Created with IntelliJ IDEA.
- * User: lumiin
- * Date: 5/24/12
- * Time: 12:24 PM
- * To change this template use File | Settings | File Templates.
- */
+
 import java.io.*;
 import java.sql.*;
 public class Sample {
@@ -22,7 +16,7 @@ public class Sample {
            while(rs.next())
            {
                String s1=rs.getString("lumiin");
-               String s2=rs.getString("Ejghdjhkgfb");
+               String s2=rs.getString("karthick88it@gmail.com");
                String s3=rs.getString("Pastjh;trthtyh);
                String s4=rs.getString("Address");
                System.out.println(s1);
