@@ -11,7 +11,7 @@ public class Sample {
            Connection con=DriverManager.getConnection(url,"roottaxi","roottaxi");
            System.out.println("connected");
            Statement stmt = con.createStatement();
-           ResultSet rs = stmt.executeQuery("select * from cute");
+           ResultSet rs = stmt.executeQuery("select * from cute awards");
            System.out.println("selected");
            while(rs.next())
            {
