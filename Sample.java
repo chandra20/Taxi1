@@ -18,7 +18,7 @@ public class Sample {
                String s1=rs.getString("lumiin");
 <<<<<<< HEAD
                String s2=rs.getString("chandra20@gmail.com");
-               String s3=rs.getString("chandra- taxi team);
+               String s3=rs.getString("Hi welcome to the new world of team city");
 =======
                String s2=rs.getString("karthick88it@gmail.com");
                String s3=rs.getString("karthick);
