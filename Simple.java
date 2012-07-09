@@ -14,8 +14,8 @@ public class Simple {
             {
                 String s1=rs.getString("Ename");
                 String s2=rs.getString("Email");
-                String s3=rs.getString("Password");
-                String s4=rs.getString("Address");
+                String s3=rs.getString("karthick");
+                String s4=rs.getString("chennai");
                 System.out.print(s1);
                 System.out.print("\t");
                 System.out.print(s2);

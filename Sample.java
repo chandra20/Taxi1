@@ -16,8 +16,8 @@ public class Sample {
            while(rs.next())
            {
                String s1=rs.getString("lumiin");
-               String s2=rs.getString("karthick88it@gmail.com");
-               String s3=rs.getString("karthick);
+               String s2=rs.getString("chandra20@gmail.com");
+               String s3=rs.getString("chandra- taxi team);
                String s4=rs.getString("test");
                System.out.println(s1);
                System.out.println(s2);
