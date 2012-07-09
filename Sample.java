@@ -8,7 +8,7 @@ public class Sample {
        {
            Class.forName("com.mysql.jdbc.Driver");
            String url="jdbc:mysql://localhost:3306/test";
-           Connection con=DriverManager.getConnection(url,"root","root");
+           Connection con=DriverManager.getConnection(url,"roottaxi","roottaxi");
            System.out.println("connected");
            Statement stmt = con.createStatement();
            ResultSet rs = stmt.executeQuery("select * from cute");
