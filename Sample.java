@@ -16,8 +16,13 @@ public class Sample {
            while(rs.next())
            {
                String s1=rs.getString("lumiin");
+<<<<<<< HEAD
                String s2=rs.getString("chandra20@gmail.com");
                String s3=rs.getString("chandra- taxi team);
+=======
+               String s2=rs.getString("karthick88it@gmail.com");
+               String s3=rs.getString("karthick);
+>>>>>>> 9fe68630c0dc3990e520a425f363f4025f62b9bc
                String s4=rs.getString("test");
                System.out.println(s1);
                System.out.println(s2);

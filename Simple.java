@@ -15,7 +15,11 @@ public class Simple {
                 String s1=rs.getString("Ename");
                 String s2=rs.getString("Email");
                 String s3=rs.getString("karthick");
+<<<<<<< HEAD
                 String s4=rs.getString("chennai");
+=======
+                String s4=rs.getString("Address");
+>>>>>>> 9fe68630c0dc3990e520a425f363f4025f62b9bc
                 System.out.print(s1);
                 System.out.print("\t");
                 System.out.print(s2);
