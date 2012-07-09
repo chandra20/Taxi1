@@ -20,8 +20,8 @@ public class Sample {
                String s2=rs.getString("chandra20@gmail.com");
                String s3=rs.getString("Hi welcome to the new world of team city");
 =======
-               String s2=rs.getString("karthick88it@gmail.com");
-               String s3=rs.getString("karthick);
+               String s2=rs.getString("hr.lumiins");
+               String s3=rs.getString("lumiins");
 >>>>>>> 9fe68630c0dc3990e520a425f363f4025f62b9bc
                String s4=rs.getString("test");
                System.out.println(s1);
