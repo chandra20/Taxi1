@@ -5,7 +5,7 @@ public class Simple {
     {
         try
         {
-            Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+            Class.forName("sun.jdbc.odbc.JdbcOdb");
             Connection con=DriverManager.getConnection("jdbc:odbc:test");
             System.out.println("Connected");
             Statement st=con.createStatement();

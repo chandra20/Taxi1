@@ -7,7 +7,7 @@ public class Sample {
        try
        {
            Class.forName("com.mysql.jdbc.Driver");
-           String url="jdbc:mysql://localhost:3306/test";
+           String url="jdbc:mysql://localhost:3306/chennai";
            Connection con=DriverManager.getConnection(url,"roottaxi","roottaxi");
            System.out.println("connected");
            Statement stmt = con.createStatement();
@@ -21,7 +21,7 @@ public class Sample {
                String s3=rs.getString("Hi welcome to the new world of team city");
 =======
                String s2=rs.getString("hr.lumiins");
-               String s3=rs.getString("lumiins");
+               String s3=rs.getString("UK taxi");
 >>>>>>> 9fe68630c0dc3990e520a425f363f4025f62b9bc
                String s4=rs.getString("test");
                System.out.println(s1);
