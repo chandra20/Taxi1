@@ -15,7 +15,7 @@ public class Sample {
            System.out.println("selected");
            while(rs.next())
            {
-               String s1=rs.getString("lumiin");
+               String s1=rs.getString("chennai");
 <<<<<<< HEAD
                String s2=rs.getString("chandra20@gmail.com");
                String s3=rs.getString("Hi welcome to the new world of team city");
